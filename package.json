@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@types/node": "^14.14.31"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "text-database",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "db",
+    "database",
+    "text",
+    "txt",
+    "plain text"
+  ],
+  "author": "Maxisthemoose",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,4 @@
+/dist
+tsconfig.json
+*lock.json
+/node_modules
