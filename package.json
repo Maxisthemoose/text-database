@@ -5,7 +5,7 @@
   "dependencies": {
     "colors": "^1.4.0"
   },
-  "name": "text-database",
+  "name": "@maxisthemoose/text-database",
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
@@ -20,5 +20,5 @@
   ],
   "author": "Maxisthemoose",
   "license": "ISC",
-  "description": ""
+  "description": "A terrible plain text database wrapper. Why you would use this? I don't know. Please don't."
 }
