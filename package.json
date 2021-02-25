@@ -20,5 +20,9 @@
   ],
   "author": "Maxisthemoose",
   "license": "ISC",
-  "description": "A terrible plain text database wrapper. Why you would use this? I don't know. Please don't."
+  "description": "A terrible plain text database wrapper. Why you would use this? I don't know. Please don't.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Maxisthemoose/text-database"
+  }
 }
